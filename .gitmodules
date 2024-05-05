@@ -1,0 +1,7 @@
+[submodule "extern/imgui"]
+	path = extern/imgui
+	url = git@github.com:ocornut/imgui.git
+	branch = docking
+[submodule "extern/Walnut"]
+	path = extern/Walnut
+	url = git@github.com:kwsp/Walnut.git
